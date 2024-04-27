@@ -6,7 +6,6 @@ KaBar is a cutting-edge news application that provides users with the latest new
 
 <img width="716" alt="Screenshot 2023-12-09 at 4 11 00 PM" src="https://github.com/Mohamed11Rshad/Data/blob/main/KaBar/light.png"><br>
 <img width="716" alt="Screenshot 2023-12-09 at 4 11 00 PM" src="https://github.com/Mohamed11Rshad/Data/blob/main/KaBar/light2.png"><br>
-<img width="716" alt="Screenshot 2023-12-09 at 4 11 00 PM" src="https://github.com/Mohamed11Rshad/Data/blob/main/KaBar/light3.png"><br>
 <br>
 <img width="716" alt="Screenshot 2023-12-09 at 4 11 00 PM" src="https://github.com/Mohamed11Rshad/Data/blob/main/KaBar/dark.png"><br>
 <img width="716" alt="Screenshot 2023-12-09 at 4 11 00 PM" src="https://github.com/Mohamed11Rshad/Data/blob/main/KaBar/dark2.png"><br>
